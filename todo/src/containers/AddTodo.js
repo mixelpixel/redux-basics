@@ -18,6 +18,7 @@ let AddTodo = ({ dispatch }) => {
         }}
       >
         <input
+          placeholder="Something to do?"
           ref={node => {
             input = node
           }}
