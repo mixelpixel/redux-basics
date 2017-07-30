@@ -1,8 +1,16 @@
 # [Redux Basics Tutorial](http://redux.js.org/docs/basics/)
 
-This project was created July 27, 2017 to supplement a Lambda University (CS1) class introducing the Redux framework in conjunction with React:
+This project was created July 27, 2017 to supplement a [Lambda University (CS1) lecture](https://youtu.be/wJatXrRg8rw) introducing the Redux framework in conjunction with React.  
 
-https://youtu.be/wJatXrRg8rw
+I am following Dan Abramov's excellent (and FREE!) tutorial web page:
+
+1. http://redux.js.org/docs/basics/
+
+... and his video series:
+
+2. https://egghead.io/courses/getting-started-with-redux
+
+
 
 In particular I am using macOS10.12.5 along with:
 ```console
